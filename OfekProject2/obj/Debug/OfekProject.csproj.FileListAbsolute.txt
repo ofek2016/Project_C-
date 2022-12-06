@@ -1,0 +1,57 @@
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\OfekProject.exe.config
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\OfekProject.exe
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\OfekProject.pdb
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.csprojAssemblyReference.cache
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.Form1.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.Form2.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.LearnForm.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.Properties.Resources.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.csproj.GenerateResource.cache
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.csproj.CoreCompileInputs.cache
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.exe
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.pdb
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.Quiz.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\QIMAGES\lizman_19T.jpg
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\QIMAGES\katz_20F.jpg
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.AddInfo.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\obj\Debug\OfekProject.AddQuestions.resources
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\DATA\gameData.txt
+C:\Users\nehor\source\repos\OfekProject\OfekProject\bin\Debug\DATA\infoData.txt
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\DATA\gameData.txt
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\DATA\infoData.txt
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\QIMAGES\katz_20F.jpg
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\QIMAGES\lizman_19T.jpg
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\OfekProject.exe.config
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\OfekProject.exe
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\bin\Debug\OfekProject.pdb
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.csprojAssemblyReference.cache
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.AddInfo.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.AddQuestions.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.Form1.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.Form2.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.LearnForm.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.Properties.Resources.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.Quiz.resources
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.csproj.GenerateResource.cache
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.csproj.CoreCompileInputs.cache
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.exe
+C:\Users\nehoraie\Downloads\ExtensionDownloads\OfekProject\OfekProject\obj\Debug\OfekProject.pdb
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\DATA\gameData.txt
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\DATA\infoData.txt
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\QIMAGES\katz_20F.jpg
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\QIMAGES\lizman_19T.jpg
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\OfekProject.exe.config
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\OfekProject.exe
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\bin\Debug\OfekProject.pdb
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.csprojAssemblyReference.cache
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.AddInfo.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.AddQuestions.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.Form1.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.Form2.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.LearnForm.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.Properties.Resources.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.Quiz.resources
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.csproj.GenerateResource.cache
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.csproj.CoreCompileInputs.cache
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.exe
+C:\Users\ofek\Desktop\מבחן שאלה 2\OfekProject\obj\Debug\OfekProject.pdb

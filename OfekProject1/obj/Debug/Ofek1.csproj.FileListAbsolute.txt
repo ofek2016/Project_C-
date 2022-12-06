@@ -1,0 +1,7 @@
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\bin\Debug\Ofek1.exe.config
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\bin\Debug\Ofek1.exe
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\bin\Debug\Ofek1.pdb
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\obj\Debug\Ofek1.csprojAssemblyReference.cache
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\obj\Debug\Ofek1.csproj.CoreCompileInputs.cache
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\obj\Debug\Ofek1.exe
+C:\Users\nehoraie\source\repos\Ofek1\Ofek1\obj\Debug\Ofek1.pdb
